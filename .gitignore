@@ -1,0 +1,3 @@
+# Archivos temporales y de recuperación java
+*.java~
+*.java#
