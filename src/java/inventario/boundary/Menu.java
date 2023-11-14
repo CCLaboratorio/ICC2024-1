@@ -1,8 +1,4 @@
-package ui; //paquete al que pertenece la clase
-
-//importación de otros paquetes
-import java.util.Scanner;
-import utilidades.Funcion;
+package inventario.boundary;
 
 /**
  * COMÉNTAME ...
